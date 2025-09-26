@@ -31,7 +31,9 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-4CAF50?style=flat" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-4CAF50?style=flat" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/OpenCV-4CAF50?style=flat" alt="OpenCV"/>
 </p>
 
 ---
