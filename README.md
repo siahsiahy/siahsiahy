@@ -14,17 +14,18 @@
   📍 Seoul, South Korea  
   🗓️ Expected Graduation: 2026.2
 ---
-### 🚀 I use daily:
+### 🚀 I've Participated In:
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+ <img src="https://img.shields.io/badge/ReAct%20Agent-43A047?style=flat" alt="ReAct Agent"/>
 </p>
 
 ---
 
-### 🛠️ I also work with:
+### 🛠️ I'm interested in:
 <p>
   <img src="https://img.shields.io/badge/TinyLLaMA-FF9900?style=flat"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
