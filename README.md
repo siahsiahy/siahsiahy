@@ -4,14 +4,15 @@
 💡 Stay curious, stay focused, and build cool things<br>
 📫 Connect with me at <a href="mailto:yeomsio0219@yonsei.ac.kr">yeomsio0219@yonsei.ac.kr</a>
 </p>
+---
 ### 🎓 Academic Background
 
 - **Yonsei University** (연세대학교)  
   *B.S. in Computer Science, Undergraduate Student*  
   📍 Seoul, South Korea  
   🗓️ Expected Graduation: 2026.2
-### 🚀 I use daily:
 ---
+### 🚀 I use daily:
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white"/>
