@@ -36,8 +36,7 @@
 ### 📫 Contact Me:
 
 - 📧 Email: yeomsio0219@yonsei.ac.kr  
-- 🌐 Website: [https://yourgithubusername.github.io](https://yourgithubusername.github.io)  
-- 🐱 GitHub: [@yourusername](https://github.com/yourusername)
+- 🌐 Website: [https://siahsiahy.github.io](https://siahsiahy.github.io)  
 
 ---
 
