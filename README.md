@@ -1,20 +1,3 @@
-## Hi there 👋I'm SHIYU YAN.
-
-<!--
-**siahsiahy/siahsiahy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi there 👋, I'm SHIYU YAN</h1>
 <p align="center">
 🌱 Passionate about AI, XR interaction, and system programming<br>
@@ -27,10 +10,8 @@ Here are some ideas to get you started:
 ### 🚀 I use daily:
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 </p>
 
@@ -66,7 +47,7 @@ Here are some ideas to get you started:
 
 ### 🤝 Connect with me
 
-- 💼 [Portfolio Website](https://yourgithubid.github.io/)
+- 💼 [Portfolio Website](https://siahsiahy.github.io/)
 - 📧 yeomsio0219@yonsei.ac.kr
 - 🇰🇷 Seoul, South Korea
 
