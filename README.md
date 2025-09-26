@@ -1,50 +1,48 @@
-<h1 align="center">Hi there 👋, I'm SHIYU YAN</h1>
+<!-- 头像和名字 -->
+<h1 align="center">Hi, I'm SHIYU YAN 👋</h1>
 <p align="center">
-🌱 Passionate about AI, XR interaction, and system programming<br>
-💡 Stay curious, stay focused, and build cool things<br>
-📫 Connect with me at <a href="mailto:yeomsio0219@yonsei.ac.kr">yeomsio0219@yonsei.ac.kr</a>
+  <img src="https://avatars.githubusercontent.com/yourusername" width="120" style="border-radius: 50%;" />
 </p>
+
+<!-- 一句话简介 -->
+<p align="center">🧑‍🎓 Undergraduate at Yonsei University | Passionate about AI and Cybersecurity</p>
 
 ---
 
+<!-- 📚 学术背景 -->
 ### 🎓 Academic Background
-
-- **Yonsei University** (연세대학교)  
-  *B.S. in Computer Science, Undergraduate Student*  
-  📍 Seoul, South Korea  
-  🗓️ Expected Graduation: 2026.2
----
-### 🚀 I've Participated In:
-<p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
- <img src="https://img.shields.io/badge/ReAct%20Agent-43A047?style=flat" alt="ReAct Agent"/>
-</p>
+- 📍 Undergraduate Student at **Yonsei University**
+- 💼 Major: Computer Science
 
 ---
 
-### 🛠️ I'm interested in:
-<p>
-  <img src="https://img.shields.io/badge/TinyLLaMA-FF9900?style=flat"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<!-- 🚀 兴趣方向，绿色徽章风格 -->
+### 🚀 I'm interested in:
+
+<!-- 绿色徽章风格，用 shields.io 生成 -->
 <img src="https://img.shields.io/badge/Cybersecurity-4CAF50?style=flat" alt="Cybersecurity"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-4CAF50?style=flat" alt="Computer Vision"/>
 <img src="https://img.shields.io/badge/OpenCV-4CAF50?style=flat" alt="OpenCV"/>
-</p>
 
 ---
 
-### 📘 I'm currently learning:
-<p>
-  <img src="https://img.shields.io/badge/LLM Prompting-8A2BE2?style=flat"/>
-  <img src="https://img.shields.io/badge/Kernel Hacking-FF4500?style=flat"/>
-  <img src="https://img.shields.io/badge/Diffusion Models-4B8BBE?style=flat"/>
-  <img src="https://img.shields.io/badge/Deep Learning-43A047?style=flat"/>
-</p>
+<!-- 💻 项目经验 -->
+### 🧪 Projects I’ve Participated In:
+
+- 🔍 **Gaze-based Interaction in XR** – Built a Unimodal Gaze Interaction System for VR/AR
+- 📈 **KRX Stock Reasoning Agent** – Designed a lightweight ReAct agent using TinyLLaMA + FastAPI
+- 🧠 **Multi-head Attention Visualization** – Implemented from scratch using multi-process C
+
+---
+
+<!-- 📫 联系方式 -->
+### 📫 Contact Me:
+
+- 📧 Email: yeomsio0219@yonsei.ac.kr  
+- 🌐 Website: [https://yourgithubusername.github.io](https://yourgithubusername.github.io)  
+- 🐱 GitHub: [@yourusername](https://github.com/yourusername)
+
+---
 
 ---
 
