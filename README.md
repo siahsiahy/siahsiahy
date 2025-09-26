@@ -1,28 +1,23 @@
-<!-- 头像和名字 -->
 <h1 align="center">Hi, I'm SHIYU YAN 👋</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/yourusername" width="120" style="border-radius: 50%;" />
 </p>
 
-<!-- 一句话简介 -->
-<p align="center">🧑‍🎓 Undergraduate at Yonsei University | Passionate about AI and Cybersecurity</p>
+<p align="center">🧑‍🎓 Undergraduate at Yonsei University | Passionate about Computer Science</p>
 
 ---
 
-<!-- 📚 学术背景 -->
 ### 🎓 Academic Background
 - 📍 Undergraduate Student at **Yonsei University**
 - 💼 Major: Computer Science
 
 ---
 
-<!-- 🚀 兴趣方向，绿色徽章风格 -->
 ### 🚀 I'm interested in:
-
-<!-- 绿色徽章风格，用 shields.io 生成 -->
-<img src="https://img.shields.io/badge/Cybersecurity-4CAF50?style=flat" alt="Cybersecurity"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-4CAF50?style=flat" alt="Computer Vision"/>
-<img src="https://img.shields.io/badge/OpenCV-4CAF50?style=flat" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+ <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-4B8BBE?style=flat" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 
 ---
 
