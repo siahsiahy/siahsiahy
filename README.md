@@ -23,7 +23,6 @@
 
 ---
 
-<!-- 💻 项目经验 -->
 ### 🧪 Projects I’ve Participated In:
 
 - 🔍 **Gaze-based Interaction in XR** – Built a Unimodal Gaze Interaction System for VR/AR
@@ -32,7 +31,6 @@
 
 ---
 
-<!-- 📫 联系方式 -->
 ### 📫 Contact Me:
 
 - 📧 Email: yeomsio0219@yonsei.ac.kr  
@@ -40,7 +38,6 @@
 
 ---
 
----
 
 ### 🎯 Visitor Count
 
@@ -50,12 +47,5 @@
 
 ---
 
-### 🤝 Connect with me
-
-- 💼 [Portfolio Website](https://github.com/siahsiahy)
-- 📧 yeomsio0219@yonsei.ac.kr
-- 🇰🇷 Seoul, South Korea
-
----
 
 *✨Powered by Markdown & Shields.io badges*
