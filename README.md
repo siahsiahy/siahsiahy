@@ -13,11 +13,13 @@
 ---
 
 ### 🚀 I'm interested in:
+<p>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
- <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
- <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-4B8BBE?style=flat" alt="Computer Vision"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+</p>
 
 ---
 
