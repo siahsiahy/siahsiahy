@@ -47,7 +47,7 @@
 
 ### 🤝 Connect with me
 
-- 💼 [Portfolio Website](https://siahsiahy.github.io/)
+- 💼 [Portfolio Website](https://github.com/siahsiahy)
 - 📧 yeomsio0219@yonsei.ac.kr
 - 🇰🇷 Seoul, South Korea
 
