@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm SHIYU YAN 👋</h1>
-<p align="center" style="font-size:14px; color:gray;"><em>you can also call me Sia✨</em></p>
-<p align="center">
+<p align="center" style="font-size:10px; color:gray;"><em>You can also call me Sia✨</em></p>
 </p>
 
 <p align="center">🧑‍🎓 Undergraduate at Yonsei University | Passionate about Computer Science</p>
