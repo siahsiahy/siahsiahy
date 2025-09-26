@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/LLM Prompting-8A2BE2?style=flat"/>
   <img src="https://img.shields.io/badge/Kernel Hacking-FF4500?style=flat"/>
   <img src="https://img.shields.io/badge/Diffusion Models-4B8BBE?style=flat"/>
+  <img src="https://img.shields.io/badge/Deep Learning-43A047?style=flat"/>
 </p>
 
 ---
