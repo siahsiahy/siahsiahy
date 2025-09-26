@@ -4,7 +4,9 @@
 💡 Stay curious, stay focused, and build cool things<br>
 📫 Connect with me at <a href="mailto:yeomsio0219@yonsei.ac.kr">yeomsio0219@yonsei.ac.kr</a>
 </p>
+
 ---
+
 ### 🎓 Academic Background
 
 - **Yonsei University** (연세대학교)  
